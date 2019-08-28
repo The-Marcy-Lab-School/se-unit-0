@@ -21,3 +21,7 @@ Okay, here we go!
 8. Push your changes back up to the remote copy of _your fork_. `git push origin master`
 9. Log back on to GitHub.com.
 10. Navigate back to your fork of the `git_cli_lab` repository. 
+11. Open a **pull request**. ![pull request photo](./pull_request.png) 
+    ...then click ![pull request photo 2](./pull_request2.png)
+    ...and lastly ![pull request photo 3](./pull_request3.png)
+12. And just like that... you're done! You've made your first pull request!
