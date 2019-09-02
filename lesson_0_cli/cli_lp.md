@@ -51,7 +51,8 @@ FWBAT...
    |            |--kirk.txt
    |
    |-----my_family/            
-  ```
+   ```
+
   **Be sure to demonstrate the following:**
     - mkdir
       - mkdir -p
@@ -77,6 +78,7 @@ FWBAT...
 
 ## Independent Practice (15 mins)
 Recreate the following directory structure using only the command line.
+
 ```
  Your Workspace/
  |
