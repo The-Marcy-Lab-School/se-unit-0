@@ -41,12 +41,12 @@ FWBAT...
    |
    |-----my_fellows/
    |      |
-   |      |---salt/
+   |      |---codenation/
    |      |    |--devonte.txt
    |      |    |--enmanuel.md
    |      |    |--carmen.md 
    |      |
-   |      |---sugar/
+   |      |---music/
    |            |--anne.txt
    |            |--kirk.txt
    |
