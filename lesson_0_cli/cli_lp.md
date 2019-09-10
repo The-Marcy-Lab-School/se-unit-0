@@ -54,6 +54,7 @@ FWBAT...
    ```
 
   **Be sure to demonstrate the following:**
+
     - mkdir
       - mkdir -p
     - ls
