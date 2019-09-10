@@ -47,12 +47,12 @@ FWBAT...
 3. Once logged in, under "Find Services", type in "Cloud9".
 4. Once at the Cloud9 homepage, click 'Create Environment'
 5. Create your Cloud9 environment. 
-  **Step 1: Name Environment**
+  * **Step 1: Name Environment**
     Name: _firstName-marcylab_
     Description: This is the development environment for my Marcy Lab School projects and assignments.
-  **Step 2: Configure Settings**
+  * **Step 2: Configure Settings**
     Leave all defaults as they are and click 'Next Step'
-  **Step 3: Review**
+  * **Step 3: Review**
     Accept
 6. Wait a minute while the environment configures. Once it's loaded, **save the link to your bookmarks**
 
