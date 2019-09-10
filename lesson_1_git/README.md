@@ -21,7 +21,7 @@ You will...
 ## Additional Resources
 * [Read Sections 1.1 to 1.3](https://git-scm.com/book/en/v2/Getting-Started-About-Version-Control) in Pro Git book.
 
-## Learning Lab
+## Lab
 * [GitHub: Hello, World](https://guides.github.com/activities/hello-world/)
 
 ## Extend Your Learning
