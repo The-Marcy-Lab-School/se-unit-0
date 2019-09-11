@@ -81,16 +81,16 @@ In order to avoid frustration and confusion, follow this guide step-by-step and 
 
 Okay, here we go!
 
-1. Fork the [git_cli_lab repo](https://github.com/The-Marcy-Lab-School/se-unit-0/tree/master/lesson_1_git/git_cli_lab)
+1. Fork the [se-unit-0 repo](https://github.com/The-Marcy-Lab-School/se-unit-0/)
 2. Clone the repository, creating a copy on your local environment.
-3. In your local environment, navigate to your newly added `git_cli_lab/` directory.
-4. Inside of the `git_cli_lab/` directory, create a new Markdown file for your blog post. Use the following _naming convention_: `FIRSTNAME_LASTNAME_blog0.md`
-5. Open the newly created Markdown file and copy your pre-work blog post into the file, being sure to use Markdown syntax for headings, lists, bold, italics, etc. When you are done, save and close the file.
+3. In your local environment, navigate to your newly added `lesson_1_git/git_lecture/git_lab` directory.
+4. Inside of the `git_lab/` directory, create a new Markdown fil. Use the following _naming convention_: `FIRSTNAME_LASTNAME_blog0.md`
+5. Open the newly created Markdown file and make a change to the file. If you want, you can try to use Markdown syntax for headings, lists, bold, italics, etc. When you are done, save and close the file.
 6. Stage your changes using `git add [filename]`
 7. Commit your changes using `git commit -m "[Enter commit message here]"`
 8. Push your changes back up to the remote copy of _your fork_. `git push origin master`
 9. Log back on to GitHub.com.
-10. Navigate back to your fork of the `git_cli_lab` repository. 
+10. Navigate back to your fork of the `se-unit-0` repository. 
 11. Open a **pull request**. ![pull request photo](./pull_request.png) 
     ...then click ![pull request photo 2](./pull_request2.png)
     ...and lastly ![pull request photo 3](./pull_request3.png)
