@@ -41,8 +41,7 @@ FWBAT...
 * We will be working toward the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) credential.
 
 ## Setting Up our Cloud9 Development Environment
-1. Log into your AWS account. I've already made one for you. Log-In Link: https://reuben-marcylab.signin.aws.amazon.com/console
-   * Student Log-In Info [here](https://docs.google.com/spreadsheets/d/15ycHq8_xBLRGfMa7lmEydKh1p2Is4lai9yOH1CmQ4Ww/edit#gid=0)
+1. Log into your AWS account. 
 2. Change your password.
 3. Once logged in, under "Find Services", type in "Cloud9".
 4. Once at the Cloud9 homepage, click 'Create Environment'
