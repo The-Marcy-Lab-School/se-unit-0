@@ -1,5 +1,7 @@
 # Setting Up Our Development Environment
 
+For your first months at Marcy Lab School, you will be developing using Amazon Web Service (AWS) Cloud9. It will give all fellows and instructors a standard and consistent coding environment. Once you gain more coding experience and begin to create robust web applications, you will transition to developing on your local machines. 
+
 ## Objectives
 FWBAT...
 * Set up their development environment on AWS EC2
@@ -64,7 +66,7 @@ On the left, the Environment is where you can see the directories and files in y
 
 ### Manipulating your directory tree using the integrated terminal
 
-Although you can create files and folder using the left side bar, developers who use the Command Line can create files and folder very efficiently.
+Although you can create files and folder using the left side bar, developers who use the Command Line can create files and folders very efficiently.
 
 The first tab in your console is your terminal (command line interface). Type `pwd` and `ls` to see your working directory and view your files respectively. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called `Unit-0`, a place where you can save all your Unit 0 work.
 
