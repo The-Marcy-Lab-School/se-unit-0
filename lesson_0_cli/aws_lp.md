@@ -1,9 +1,9 @@
-# Setting Up Our Development Environmnent - September 10, 2019
+# Setting Up Our Development Environment
 
 ## Objectives
 FWBAT...
 * Set up their development environment on AWS EC2
-* Understand how AWS fits in to larger cloud computing ecosystem 
+* Understand how AWS fits in to larger cloud computing ecosystem
 
 ## Vocabulary
 * Server
@@ -19,7 +19,7 @@ FWBAT...
 ## The Why?
 ### AWS and Cloud Computing
 * We will be using AWS Cloud9 as our **development environment**.
-* It's easy. It's cheap. It can be accessed from anywhere. And it's more than enough to build a full stack application (and career!) on.
+* It's easy. It's cheap. It can be accessed from anywhere (as long as you have an internet connection). And it's more than enough to build a full stack application (and career!) on.
 * Bonus: We get introduced to **cloud computing** the **AWS** ecosystem.
 * Cloud Computing has fundamentally changed the way that we design, deploy, and use software.
 * AWS is the global leader in **_cloud computing_** and it's not even close.
@@ -34,18 +34,18 @@ FWBAT...
 ### Cloud9 and the AWS Ecosystem
 * Cloud9 is "a cloud-based integrated development environment (IDE) that you use to write, run, and debug code".
   * An integrated development environment is an application that provides all the tools you need for software development in one location. They include a terminal, a text editor, and a graphical directory tree.
-* Instead of running your code on your physical computer, Cloud9 creates a **_virtual machine_** for your code to run on. 
+* Instead of running your code on your physical computer, Cloud9 creates a **_virtual machine_** for your code to run on.
 * Virtual machines are AWS most popular product. They offer them through a service called **_EC2 or Elastic Cloud Compute_**.
 * Cloud9 and EC2 are just two of **over 100 services** that AWS offers to allow you to buid software, secure it, and deploy it to the world.
 * Their ecosystem is so large that they offer a suite of certifications that you can obtain to signal your experience to potential employers.
 * We will be working toward the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) credential.
 
 ## Setting Up our Cloud9 Development Environment
-1. Log into your AWS account. 
+1. Log into your AWS account.
 2. Change your password.
 3. Once logged in, under "Find Services", type in "Cloud9".
 4. Once at the Cloud9 homepage, click 'Create Environment'
-5. Create your Cloud9 environment. 
+5. Create your Cloud9 environment.
   * **Step 1: Name Environment**
     Name: _firstName-marcylab_
     Description: This is the development environment for my Marcy Lab School projects and assignments.
@@ -56,8 +56,44 @@ FWBAT...
 6. Wait a minute while the environment configures. Once it's loaded, **save the link to your bookmarks**
 
 ## Touring the IDE
-Demonstrate the following:
-1. Manipulating your directory tree using the integrated terminal.
-2. Creating and opening a text file.
-3. Creating and opening an HTML file using 'Preview'
-4. Changing the theme. 
+### Exploring the User Interface
+
+![Cloud9 UI](./pictures/cloud9_ui.png)
+
+On the left, the Environment is where you can see the directories and files in your Cloud9 environment. You can right click in this area to manually create new files and folders.
+
+### Manipulating your directory tree using the integrated terminal
+
+Although you can create files and folder using the left side bar, developers who use the Command Line can create files and folder very efficiently.
+
+The first tab in your console is your terminal (command line interface). Type `pwd` and `ls` to see your working directory and view your files respectively. Since you'll be developing in this environment for a couple months, let's get organized. Create a folder called `Unit-0`, a place where you can save all your Unit 0 work.
+
+![terminal](./pictures/terminal.png)
+
+### Creating and opening a file
+
+`cd` into your new `Unit-0` folder and create a JavaScript file called app.js. Use the command `touch app.js`. Next, we are going to install some Cloud9 tools. Run `npm install -g c9` in the terminal. The npm install part of the command is installing a tool called c9, and the -g flag installs it globally on our Cloud9 environment.
+
+You need to restart your workspace, and you can do so by **refreshing the page**. Now, you can type `c9 <filename>` to open any file from the terminal. The file will appear in the Cloud9 panel. Open your new file with the command `c9 app.js`.
+
+![c9](./pictures/c9.png)
+
+### Running a JavaScript file
+
+Now that you can edit files, create a JavaScript function that will `console.log` "hello world". Be sure to invoked that function in your `app.js` file. Save the file using Control-S or Command-S on your keyboard. Next, type `node app.js` to run the JavaScript file. Node is the tool developers use to run JavaScript. Ensure that the string "hello world" is printed to your terminal.
+
+![js](./pictures/js.png)
+
+### Interacting with the built-in JavaScript console
+
+Click on the second tab of your console where it says "Immediate". This tab can be used as a JavaScript console. Create variables `firstName` and `lastName` and see if you can `console.log` your full name. Follow the example below:
+
+![console](./pictures/console.png)
+
+**Note:** Every time you press enter, the JavaScript code is executed as a block. So you'll need to declared variables with `var` if you want their scope to persist between when you press "Enter". In order to write multiple JS lines at once, hold down "Shift" as you press "Enter" for a new line.
+
+### Additional Exploration
+
+Take some time to explore other features of Cloud 9. You can even change the color theme of your environment.
+
+![theme](./pictures/theme.png)
