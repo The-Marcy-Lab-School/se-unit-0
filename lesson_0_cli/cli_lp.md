@@ -3,9 +3,8 @@
 ## Objectives
 FWBAT...
 - Understand the "flipped classroom model" and how/why we will employ it in our class.
-- Configure their local development environment
 - Understand the origins of the command line interface
-- Navigate their local file tree using the command line interface
+- Navigate their file tree using the command line interface
 - Create, copy, delete, and move files and directories using the command line interface.
 - Understand key file and directory naming conventions
 
@@ -25,18 +24,18 @@ FWBAT...
 
 ## Prerequisite
 * Complete the Navigating the File System, Viewing and Changing the File System, and Redirecting Input and Output sections of [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) on Codecademy.
+* [Set Up Your Coding Environment on AWS Cloud9](https://github.com/The-Marcy-Lab-School/se-unit-0/blob/master/lesson_0_cli/aws_lp.md)
 
 ## Guided Practice
 
-If you have finished setting up your coding environment, you should complete the practice below using your computer's command line.
-
-If you have not finished your environment set up, you can practice using [Repl.it](https://repl.it/languages/bash).
+If you _could not_ set up your environment, you can practice using [Repl.it](https://repl.it/languages/bash). Otherwise, you should complete the exercises below in your Cloud9 environment.
 
 ### Directory Set-Up Code-along (15 mins)
-1. Type `pwd` to see your working directory. Type `ls` to see  files. 
-2. Create the following directory structure
+1. Type `pwd` to see your working directory.
+2. For this practice, we will be creating folders and files using only the command line. Determine where you want to create them and `cd` to that folder.
+3. Create the following directory structure:
    ```
-   Reuben_Ogbonna (or Your Name Here)/
+   cli_practice/
    |
    |-----my_friends/
    |      |
@@ -83,8 +82,7 @@ If you have not finished your environment set up, you can practice using [Repl.i
     - pwd
 
 ## Independent Practice (15 mins)
-Recreate the following directory structure using only the command line.
-
+Recreate the following directory structure using only the command line:
 ```
  Your Workspace/
  |
