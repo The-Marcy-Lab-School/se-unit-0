@@ -22,7 +22,7 @@ FWBAT...
 * The way that we learn in this program may feel different from what you are used to. Instead of me lecturing and sending you off to practice in isolation, I will send you off to explore in isolation and we will practice together.
   * Why? Because, I believe in your innate ability as a learner. My goal is to help you find how you best learn and to develop in your capacity as a learner. We come back together to walk the last mile and extend our learning together.
 
-## Prerequisite
+## Prerequisites
 * Complete the Navigating the File System, Viewing and Changing the File System, and Redirecting Input and Output sections of [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) on Codecademy.
 * [Set Up Your Coding Environment on AWS Cloud9](https://github.com/The-Marcy-Lab-School/se-unit-0/blob/master/lesson_0_cli/aws_lp.md)
 
