@@ -40,7 +40,6 @@ FWBAT...
 * Virtual machines are AWS most popular product. They offer them through a service called **_EC2 or Elastic Cloud Compute_**.
 * Cloud9 and EC2 are just two of **over 100 services** that AWS offers to allow you to buid software, secure it, and deploy it to the world.
 * Their ecosystem is so large that they offer a suite of certifications that you can obtain to signal your experience to potential employers.
-* We will be working toward the [AWS Certified Developer - Associate](https://aws.amazon.com/certification/certified-developer-associate/) credential.
 
 ## Setting Up our Cloud9 Development Environment
 1. Log into your AWS account.
