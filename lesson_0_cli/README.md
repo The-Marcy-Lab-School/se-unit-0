@@ -12,7 +12,7 @@ FWBAT (Fellows Will Be Able To):
 8. Understand how AWS fits in to larger cloud computing ecosystem
 
 ## Learning Assignments
-1. Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line)
+1. Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line), the three sections below:
   * Navigating the File System
   * Viewing and Changing the File System
   * Redirecting Input and Output
