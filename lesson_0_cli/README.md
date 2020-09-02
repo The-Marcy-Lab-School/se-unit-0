@@ -20,13 +20,10 @@ FWBAT (Fellows Will Be Able To):
 ___
 
 #### Additional Resources
-* [Introduction to the Terminal](https://teamtreehouse.com/library/introduction-to-the-terminal) on Treehouse
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) an in-depth tutorial by Michael Hartl 
 
 #### Extend Your Learning
 A **shell script** is a program written for the Unix shell (or your terminal). Shell scripting can increase your efficiency because it allows you to batch and automate common tasks or commands. The following resources will introduce you to the basics of shell scripting:
 * Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) (Configure the Environment and Bash Scription sections)
 * [Shell Scripting Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw) on YouTube
 * [The Beginner's Guide to Shell Scripting: The Basics](https://www.howtogeek.com/67469/the-beginners-guide-to-shell-scripting-the-basics/) Article
-
-**AWS S3 (Simple Storage Service)** allows you to store data on the AWS Cloud. This data could be family photos, class assignments, or data for a website that will be viewed by millions of people. Now that you have some familiarity with AWS EC2 and Cloud9, learn more about S3 using the resource below:
-* [AWS with S3](https://teamtreehouse.com/library/aws-with-s3) on Treehouse
