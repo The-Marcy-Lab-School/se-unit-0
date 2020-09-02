@@ -20,7 +20,7 @@ FWBAT (Fellows Will Be Able To):
 ___
 
 #### Additional Resources
-* [Introduction to the Terminal](https://teamtreehouse.com/library/introduction-to-the-terminal) on Treehouse
+* [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) an in-depth tutorial by Michael Hartl 
 
 #### Extend Your Learning
 A **shell script** is a program written for the Unix shell (or your terminal). Shell scripting can increase your efficiency because it allows you to batch and automate common tasks or commands. The following resources will introduce you to the basics of shell scripting:
