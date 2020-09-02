@@ -1,4 +1,4 @@
-# Introduction to the Command Line Interface (September 9 - 10, 2019)
+# Introduction to the Command Line Interface
 
 ## Objectives
 FWBAT...
@@ -15,36 +15,41 @@ FWBAT...
 
 ## The Why?
 * We are used to navigating our technology with an **_interface_** that is visually driven.
-* Our normal interfaces use analogies that feel familiar from our everyday lives. We're used to clicking on "folders", saving files to our "desktop", we "scroll", "drag", and "move" images. 
+* Our normal interfaces use analogies that feel familiar from our everyday lives. We're used to clicking on "folders", saving files to our "desktop", we "scroll", "drag", and "move" images.
 * These are features of a **_graphical user interface_**, or a GUI, for short.
 * Before we had GUI's, we navigated computers using text commands.
-* While GUI's are more user-friendly and easier to develop foundational proficiency, the **_command line interface_** is more powerful and efficient. 
+* While GUI's are more user-friendly and easier to develop foundational proficiency, the **_command line interface_** is more powerful and efficient.
 * To this day, developers still use the command line interface because of it's ability to perform both repetitive and complex tasks with efficiency.
 * The way that we learn in this program may feel different from what you are used to. Instead of me lecturing and sending you off to practice in isolation, I will send you off to explore in isolation and we will practice together.
   * Why? Because, I believe in your innate ability as a learner. My goal is to help you find how you best learn and to develop in your capacity as a learner. We come back together to walk the last mile and extend our learning together.
 
-## Launch Activity
-* Complete [Introduction to the Terminal](https://teamtreehouse.com/library/introduction-to-the-terminal) on Treehouse.
+## Prerequisite
+* Complete the Navigating the File System, Viewing and Changing the File System, and Redirecting Input and Output sections of [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) on Codecademy.
 
 ## Guided Practice
-### Directory Set-Up Code-along (15 mins) 
-1. Open a new Treehouse Workspace (briefly mention the concept of a virtual machine)
+
+If you have finished setting up your coding environment, you should complete the practice below using your computer's command line.
+
+If you have not finished your environment set up, you can practice using [Repl.it](https://repl.it/languages/bash).
+
+### Directory Set-Up Code-along (15 mins)
+1. Type `pwd` to see your working directory. Type `ls` to see  files. 
 2. Create the following directory structure
    ```
-   Reuben Ogbonna/
+   Reuben_Ogbonna (or Your Name Here)/
    |
    |-----my_friends/
    |      |
    |      |--kene.txt
    |      |--kenny.txt
-   |      |--maya_siliman_bhattacharjee-marcantonio.txt // talk naming convention
+   |      |--maya_siliman_bhattacharjee-marcantonio.txt
    |
    |-----my_fellows/
    |      |
    |      |---codenation/
    |      |    |--devonte.txt
    |      |    |--enmanuel.md
-   |      |    |--carmen.md 
+   |      |    |--carmen.md
    |      |
    |      |---music/
    |            |--anne.txt
@@ -104,5 +109,3 @@ Recreate the following directory structure using only the command line.
         |---family_member2.md
         |---family_member3.md
 ```
-
-
