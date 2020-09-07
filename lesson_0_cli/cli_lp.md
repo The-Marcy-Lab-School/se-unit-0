@@ -24,7 +24,7 @@ FWBAT...
 
 ## Prerequisites
 * Complete the Navigating the File System, Viewing and Changing the File System, and Redirecting Input and Output sections of [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) on Codecademy.
-* [Set Up Your Coding Environment on AWS Cloud9](https://github.com/The-Marcy-Lab-School/se-unit-0/blob/master/lesson_0_cli/aws_lp.md)
+* [Set Up Your Coding Environment on AWS Cloud9](https://github.com/The-Marcy-Lab-School/aws-cloud9-environment-setup)
 
 ## Guided Practices
 
