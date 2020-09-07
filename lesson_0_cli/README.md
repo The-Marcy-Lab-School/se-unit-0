@@ -18,10 +18,10 @@ FWBAT (Fellows Will Be Able To):
 
 ___
 
-#### Additional Resources
+### Additional Resources
 * [Learn Enough Command Line to Be Dangerous](https://www.learnenough.com/command-line-tutorial/basics) an in-depth tutorial by Michael Hartl
 
-#### Extend Your Learning
+### Extend Your Learning
 A **shell script** is a program written for the Unix shell (or your terminal). Shell scripting can increase your efficiency because it allows you to batch and automate common tasks or commands. The following resources will introduce you to the basics of shell scripting:
 * Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) (Configure the Environment and Bash Scription sections)
 * [Shell Scripting Tutorial](https://www.youtube.com/watch?v=hwrnmQumtPw) on YouTube
