@@ -17,8 +17,9 @@ You will...
 ## Learning Assignments 
 1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy
 
-## Labs
-* [Github Command Line Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+## Tasks
+1. Configure your AWS Environment for Github
+2. [Github Command Line Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 
 ____
 
