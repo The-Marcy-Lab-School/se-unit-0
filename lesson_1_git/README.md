@@ -17,8 +17,8 @@ You will...
 ## Learning Assignments
 1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy
 
-## Tasks
-1. Configure your AWS Environment for Github
+## Lab
+1. [Github Hello World](https://guides.github.com/activities/hello-world/)
 ____
 
 ### Additional Resources
