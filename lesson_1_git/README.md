@@ -14,18 +14,16 @@ You will...
 * Push commits to a remote repository.
 * Create a pull request.
 
-## Learning Assignments 
+## Learning Assignments
 1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy
 
 ## Tasks
 1. Configure your AWS Environment for Github
-2. [Github Command Line Tutorial](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
-
 ____
 
 ### Additional Resources
 So far, we've been working with Git and GitHub to improve our workflow as solo developers. Git(Hub) really shines as a tool for collaborative development. Explore the resources below to learn more about _branching_ and _merging_, the two concepts that GitHub collaborations rests upon.
-* [Chapter 3: Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) in Pro Git book. 
+* [Chapter 3: Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) in Pro Git book.
 
 ### Extend Your Learning
 
@@ -35,4 +33,3 @@ So far, we've been working with Git and GitHub to improve our workflow as solo d
 
 ### Extension Assignment
 Practice using Markdown elements on [markdownlivepreview.com](https://markdownlivepreview.com/). Just clear the left side of the screen and start writing! You will see your Markdown render in real time on the right side of the screen.
-
