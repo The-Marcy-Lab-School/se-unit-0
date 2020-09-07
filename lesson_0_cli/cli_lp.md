@@ -26,11 +26,11 @@ FWBAT...
 * Complete the Navigating the File System, Viewing and Changing the File System, and Redirecting Input and Output sections of [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line) on Codecademy.
 * [Set Up Your Coding Environment on AWS Cloud9](https://github.com/The-Marcy-Lab-School/se-unit-0/blob/master/lesson_0_cli/aws_lp.md)
 
-## Guided Practice
+## Guided Practices
 
 If you _could not_ set up your environment, you can practice using [Repl.it](https://repl.it/languages/bash). Otherwise, you should complete the exercises below in your Cloud9 environment.
 
-### Directory Set-Up Code-along (15 mins)
+### Directory Set-Up
 1. Type `pwd` to see your working directory.
 2. For this practice, we will be creating folders and files using only the command line. Determine where you want to create them and `cd` to that folder.
 3. Create the following directory structure:
@@ -81,7 +81,7 @@ If you _could not_ set up your environment, you can practice using [Repl.it](htt
     - more
     - pwd
 
-## Independent Practice (15 mins)
+## Independent Practice 
 Recreate the following directory structure using only the command line:
 ```
  Your Workspace/
