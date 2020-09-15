@@ -81,7 +81,7 @@ If you _could not_ set up your environment, you can practice using [Repl.it](htt
     - more
     - pwd
 
-## Independent Practice 
+## Optional Practice 
 Recreate the following directory structure using only the command line:
 ```
  Your Workspace/
