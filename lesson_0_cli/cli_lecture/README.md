@@ -39,7 +39,7 @@ Work Space
 ## Guided Practices
 Create the following directory structure:
    ```
-   Lecture-1/
+   Lecture/
    |
    |-----teachers/
    |      |
