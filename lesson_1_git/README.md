@@ -18,6 +18,8 @@ Fellows will to able to...
 1. [Github Hello World](https://guides.github.com/activities/hello-world/)
 ____
 
+## Optional Learning
+
 ### Additional Resources
 So far, we've been working with Git and GitHub to improve our workflow as solo developers. Git(Hub) really shines as a tool for collaborative development. Explore the resources below to learn more about _branching_ and _merging_, the two concepts that GitHub collaborations rests upon.
 * [Chapter 3: Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) in Pro Git book.
