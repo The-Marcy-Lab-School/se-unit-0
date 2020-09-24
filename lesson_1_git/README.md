@@ -1,18 +1,15 @@
 # Unit 0 - Lesson 1: Introduction to Git and GitHub
 
 ## Objectives
-You will...
+Fellows will to able to...
 * Understand Git as a tool for version control.  
 * Develop a sound mental model for the Git/GitHub workflow.
-* Understand GitHub as a tool for collaboration and as remote host of git repositories.
-* Understand GitHub as a social media platform for career development.
 * Understand the difference between git and GitHub
 * Create your GitHub profile
 * Initialize a Git repository from the command line
 * Create a remote GitHub repository
 * Stage and commit changes from the command line.
 * Push commits to a remote repository.
-* Create a pull request.
 
 ## Learning Assignments
 1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy
