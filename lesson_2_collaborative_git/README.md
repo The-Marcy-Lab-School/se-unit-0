@@ -16,8 +16,10 @@ Fellows will be able to...
 
 ____
 
-### Additional Resources
+### Optional Learning
+
+#### Additional Resources
 * [Getting started with Git and GitHub: the complete beginner’s guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-### Extend Your Learning
+#### Extend Your Learning
 Git branching and merging is one of the most complicated topics to conceptualize. The Coding Train does a pretty good jobs breaking down all sorts of git topics explaining them from the perspective of GUI and CLI. You can check out their [Youtube Playlist](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
