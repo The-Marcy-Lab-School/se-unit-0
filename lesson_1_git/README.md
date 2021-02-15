@@ -1,4 +1,4 @@
-# Unit 0 - Lesson 1: Introduction to Git and GitHub
+# Lesson 1: Introduction to Git and GitHub
 
 ## Objectives
 Fellows will to able to...

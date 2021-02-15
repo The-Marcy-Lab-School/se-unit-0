@@ -1,4 +1,4 @@
-# Unit 0 - Lesson 0: Command Line Basics
+# Lesson 0: Command Line Basics
 
 ## Objectives
 FWBAT (Fellows Will Be Able To):

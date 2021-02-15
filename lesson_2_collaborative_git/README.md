@@ -1,4 +1,4 @@
-# Unit 0 - Lesson 2: Collaborative Git
+# Lesson 2: Collaborative Git
 
 ## Objectives
 Fellows will be able to...
