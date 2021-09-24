@@ -12,7 +12,7 @@ Fellows will to able to...
 * Push commits to a remote repository.
 
 ## Learning Assignments
-1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy (all four sections)
+1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy (the entire course)
 
 ## Lab
 1. [Github Hello World](https://guides.github.com/activities/hello-world/)
