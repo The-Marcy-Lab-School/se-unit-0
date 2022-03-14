@@ -15,7 +15,7 @@ Fellows will to able to...
 
 1. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 
-2. [Github Hello World Lab](https://guides.github.com/activities/hello-world/)
+2. [Github Hello World Lab](https://docs.github.com/en/get-started/quickstart/hello-world)
 ____
 
 
