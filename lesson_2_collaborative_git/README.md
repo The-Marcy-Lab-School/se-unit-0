@@ -16,6 +16,7 @@ Fellows will be able to...
 
 
 ## Lab
+1. [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 1. [Github Hello World Lab](https://docs.github.com/en/get-started/quickstart/hello-world)
 
 ____
