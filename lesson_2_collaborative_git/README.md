@@ -14,6 +14,10 @@ Fellows will be able to...
 2. [Video on Forks and Pull Requests](https://www.youtube.com/watch?v=_NrSWLQsDL4)
 3. [Video on Merge Conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 
+
+## Lab
+1. [Github Hello World Lab](https://docs.github.com/en/get-started/quickstart/hello-world)
+
 ____
 
 ### Optional Learning
