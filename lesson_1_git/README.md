@@ -12,15 +12,15 @@ Fellows will to able to...
 * Push commits to a remote repository.
 
 ## Learning Assignments
-1. [Learn Git](https://www.codecademy.com/learn/learn-git) on Codecademy (the entire course)
 
-## Lab
-1. [Github Hello World](https://guides.github.com/activities/hello-world/)
+1. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+
+2. [Github Hello World Lab](https://guides.github.com/activities/hello-world/)
 ____
 
-### Optional Learning
 
-#### Additional Resources
+
+### Optional Learning
 So far, we've been working with Git and GitHub to improve our workflow as solo developers. Git(Hub) really shines as a tool for collaborative development. Explore the resources below to learn more about _branching_ and _merging_, the two concepts that GitHub collaborations rests upon.
 * [Chapter 3: Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) in Pro Git book.
 
