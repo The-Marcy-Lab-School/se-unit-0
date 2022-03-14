@@ -16,19 +16,18 @@ Fellows will to able to...
 1. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 
 2. [Github Hello World Lab](https://docs.github.com/en/get-started/quickstart/hello-world)
+
+3. **Markdown** is a plain text formatting syntax that renders as HTML, providing us with an easy way to format text for the web. We will be using Markdown quite a bit in this course. Start getting comfortable with Markdown syntax using these resoures:
+* Read [Getting Started](https://www.markdownguide.org/getting-started) and the [Cheat Sheet](https://www.markdownguide.org/cheat-sheet) on markdownguide.org.
+* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on Github Guides
 ____
 
 
-
 ### Optional Learning
-So far, we've been working with Git and GitHub to improve our workflow as solo developers. Git(Hub) really shines as a tool for collaborative development. Explore the resources below to learn more about _branching_ and _merging_, the two concepts that GitHub collaborations rests upon.
-* [Chapter 3: Git Branching](https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell) in Pro Git book.
 
-#### Extend Your Learning
+#### Additional Resources
+* [Getting started with Git and GitHub: the complete beginner’s guide](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
 
-**Markdown** is a plain text formatting syntax that renders as HTML, providing us with an easy way to format text for the web. We will be using Markdown quite a bit in this course. Start getting comfortable with Markdown syntax using these resoures:
-* Read [Getting Started](https://www.markdownguide.org/getting-started) and the [Cheat Sheet](https://www.markdownguide.org/cheat-sheet) on markdownguide.org.
-* [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on Github Guides
 
-#### Extension Assignment
+#### Makrdown Practice 
 Practice using Markdown elements on [markdownlivepreview.com](https://markdownlivepreview.com/). Just clear the left side of the screen and start writing! You will see your Markdown render in real time on the right side of the screen.
