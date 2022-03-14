@@ -14,7 +14,9 @@ FWBAT (Fellows Will Be Able To):
 1. Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line), the two sections below:
    * Navigating the File System
    * Viewing and Changing the File System
-2. [CLI Practice](/lesson_0_cli/cli_practice.md)
+
+## Lab
+1. [CLI Practice](/lesson_0_cli/cli_practice.md)
 ___
 
 ### Optional Learning
