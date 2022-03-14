@@ -15,9 +15,7 @@ Fellows will to able to...
 
 1. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 
-2. [Github Hello World Lab](https://docs.github.com/en/get-started/quickstart/hello-world)
-
-3. **Markdown** is a plain text formatting syntax that renders as HTML, providing us with an easy way to format text for the web. We will be using Markdown quite a bit in this course. Start getting comfortable with Markdown syntax using these resoures:
+2. **Markdown** is a plain text formatting syntax that renders as HTML, providing us with an easy way to format text for the web. We will be using Markdown quite a bit in this course. Start getting comfortable with Markdown syntax using these resoures:
 * Read [Getting Started](https://www.markdownguide.org/getting-started) and the [Cheat Sheet](https://www.markdownguide.org/cheat-sheet) on markdownguide.org.
 * [Mastering Markdown](https://guides.github.com/features/mastering-markdown/) on Github Guides
 ____
