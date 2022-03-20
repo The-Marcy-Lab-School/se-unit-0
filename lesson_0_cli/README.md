@@ -10,6 +10,13 @@ FWBAT (Fellows Will Be Able To):
 6. Set up your development environment on AWS EC2
 7. Understand how AWS fits in to larger cloud computing ecosystem
 
+
+## Morning Warmup Questions (Be prepared for one of these questions to be presented at the beginning of lecture)
+1. Why is it called Command Line Interface? 
+2. What are some of the commonly used commands in the terminal? 
+3. Why do we use the Command Line? 
+
+
 ## Learning Assignments
 1. Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line), the two sections below (Codecademy Projects are optional):
    * Navigating the File System
