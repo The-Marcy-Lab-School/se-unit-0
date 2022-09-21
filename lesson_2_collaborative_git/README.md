@@ -9,13 +9,13 @@ Fellows will be able to...
 * Create a pull request.
 * Resolve merge conflicts through the Github GUI and CLI.
 
-## Learning Assignments
+## Learning Resources
 1. [Video on Git Branches](https://www.youtube.com/watch?v=oPpnCh7InLY)
 2. [Video on Forks and Pull Requests](https://www.youtube.com/watch?v=_NrSWLQsDL4)
 3. [Video on Merge Conflicts](https://www.youtube.com/watch?v=JtIX3HJKwfo)
 
 
-## Lab
+## Code-a-long Activities
 1. [An Intro to Git and GitHub for Beginners (Tutorial)](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
 1. [Github Hello World Lab](https://docs.github.com/en/get-started/quickstart/hello-world)
 
