@@ -15,7 +15,7 @@ Your job is as followed:
 
 ![1](assets/1.png)
 
-2. Then clone down _your forked_ repository using your terminal by typing`git clone <url>`. You can confirm that you are cloning the _forked_ repo by making sure the webpage has your username in the top left. Once cloned, make improvements to both the `READEME.md` and `helloworld.js` files. 
+2. Then clone down _your forked_ repository using your terminal by typing`git clone <url>`. You can confirm that you are cloning the _forked_ repo by making sure the webpage has your username in the top left. Once cloned, make improvements to both the `README.md` and `helloworld.js` files. 
 
 ![2](assets/2.png)
 
