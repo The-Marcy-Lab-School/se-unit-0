@@ -13,9 +13,11 @@ Fellows will to able to...
 
 ## Learning Resources
 
-1. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+1. [Git Tutorial for Beginners](https://www.simplilearn.com/tutorials/git-tutorial/git-tutorial-for-beginner)
 
-2. **Markdown** is a plain text formatting syntax that renders as HTML, providing us with an easy way to format text for the web. We will be using Markdown quite a bit in this course. Start getting comfortable with Markdown syntax using these resoures:
+2. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+
+3. **Markdown** is a plain text formatting syntax that renders as HTML, providing us with an easy way to format text for the web. We will be using Markdown quite a bit in this course. Start getting comfortable with Markdown syntax using these resoures:
    * Read [Getting Started](https://www.markdownguide.org/getting-started) and the [Cheat Sheet](https://www.markdownguide.org/cheat-sheet) on markdownguide.org.
    * Practice using Markdown elements on [markdownlivepreview.com](https://markdownlivepreview.com/). Just clear the left side of the screen and start writing! You will see your Markdown render in real time on the right side of the screen.
 
