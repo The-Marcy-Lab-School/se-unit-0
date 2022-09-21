@@ -17,12 +17,12 @@ FWBAT (Fellows Will Be Able To):
 3. Why do we use the Command Line? 
 
 
-## Learning Assignments
+## Learning Resources
 1. Codecademy: [Learn the Command Line](https://www.codecademy.com/learn/learn-the-command-line), the two sections below (Codecademy Projects are optional):
    * Navigating the File System
    * Viewing and Changing the File System
 
-## Lab
+## Coding Activity
 1. [CLI Practice](/lesson_0_cli/cli_practice.md)
 ___
 
