@@ -11,7 +11,7 @@ Fellows will to able to...
 * Stage and commit changes from the command line.
 * Push commits to a remote repository.
 
-## Learning Assignments
+## Learning Resources
 
 1. [Free Code Camp: What is Git and How to Use it](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
 
